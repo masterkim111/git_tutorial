@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1 line
+2 line
+=======
+First line
+Second line
+>>>>>>> ef29ca4 (First commit from new_branch)
